@@ -3,9 +3,9 @@ import { useState } from 'react';
 function Home(){
   return(
     <div>
-      <h1>Pagina da branch teste</h1>
+      <h1>Pagina teste</h1>
       <p>Teste de deploy no VERCEL</p>
-      <p>2021171604</p>
+      <a href="/sobre">Acessar página Sobre</a>
       <Contador />  
     </div>
 
