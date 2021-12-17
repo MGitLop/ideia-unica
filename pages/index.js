@@ -5,6 +5,7 @@ function Home(){
     <div>
       <h1>Pagina da branch teste</h1>
       <p>Teste de deploy no VERCEL</p>
+      <p>2021171604</p>
       <Contador />  
     </div>
 
